@@ -1,6 +1,6 @@
 # Ignore
 dist/
 build/
-.egg-info/
+*.egg-info/
 
 # Allow
