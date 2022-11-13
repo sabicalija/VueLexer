@@ -1,0 +1,6 @@
+# Ignore
+dist/
+build/
+.egg-info/
+
+# Allow
